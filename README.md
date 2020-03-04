@@ -23,9 +23,10 @@ https://themaryjacobs.github.io/TempTations/
 
 ## Images
 
-!(Screenshot1)[https://github.com/TheMaryJacobs/TempTations/raw/master/Assets/Images/IMG_8826.PNG?raw=true]
-!(Screenshot1)[https://github.com/TheMaryJacobs/TempTations/raw/master/Assets/Images/IMG_8827.PNG?raw=true]
-!(Screenshot1)[https://github.com/TheMaryJacobs/TempTations/raw/master/Assets/Images/IMG_8828.PNG?raw=true]
+![Screenshot1](https://github.com/TheMaryJacobs/TempTations/raw/master/Assets/Images/IMG_8826.PNG?raw=true)
+![Screenshot1](https://github.com/TheMaryJacobs/TempTations/raw/master/Assets/Images/IMG_8827.PNG?raw=true)
+![Screenshot1](https://github.com/TheMaryJacobs/TempTations/raw/master/Assets/Images/IMG_8828.PNG?raw=true)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
